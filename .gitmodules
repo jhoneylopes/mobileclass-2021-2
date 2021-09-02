@@ -1,0 +1,6 @@
+[submodule "Base/mobileclass-baseproject"]
+	path = Base/mobileclass-baseproject
+	url = https://github.com/jhoneylopes/mobileclass-baseproject.git
+[submodule "mobileclass-baseproject"]
+	path = mobileclass-baseproject
+	url = https://github.com/jhoneylopes/mobileclass-baseproject.git
